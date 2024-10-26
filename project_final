@@ -1,0 +1,58 @@
+# Exercise 2
+# Data Science Notebook Titl
+# Exercise 3
+## Overview
+This notebook includes various exercises focused on concepts in data science, programming languages, libraries, and essential tools. It also illustrates basic arithmetic operations and unit conversions.
+
+# Exercise 4
+## Programming Languages Utilized in Data Science
+1. R
+2. Python
+3. SQL
+4. JavaScript
+5. Julia
+
+# Exercise 5
+## Libraries Commonly Used in Data Science
+1. NumPy
+2. Matplotlib
+3. TensorFlow
+4. Pandas
+5. Scikit-learn
+
+# Exercise 6
+## Tools for Data Science
+| Tool           | Purpose                         |
+|----------------|---------------------------------|
+| Jupyter        | Interactive coding environment   |
+| RStudio        | Development environment for R    |
+| Tableau        | Visualization of data            |
+| Apache Spark   | Processing large datasets        |
+| GitHub         | Collaboration and version control |
+
+# Exercise 8
+# Code snippet for adding and multiplying numbers
+x = 6
+y = 4
+total = x * y + y
+print("The total after multiplying and adding is:", total)
+
+# Exercise 9
+# Code snippet for converting hours to minutes
+def convert_hours_to_minutes(hours):
+    minutes = hours * 60
+    return minutes
+
+hours = 2
+minutes = convert_hours_to_minutes(hours)
+print(f"{hours} hours is equivalent to {minutes} minutes.")
+
+# Exercise 10
+## Goals
+- Comprehend fundamental data science concepts.
+- Discover various programming languages and libraries relevant to the field.
+- Acquire practical experience with arithmetic calculations and conversions.
+
+# Exercise 11
+## Creator
+**Creator:** LEO
